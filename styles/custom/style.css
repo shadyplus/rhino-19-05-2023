@@ -458,7 +458,7 @@ ul.quans-list li .body p {
     text-align: center;
     position: relative;
     padding-bottom: 3%;
-    /* background: url(../../img/sayacbg.png) no-repeat  #FF0; */
+    background: no-repeat  #FF0;
 }
 .titleSpan{
 	float: left;
